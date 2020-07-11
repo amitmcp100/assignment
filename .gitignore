@@ -1,0 +1,33 @@
+/api/node_modules
+/api/public/hot
+/api/public/storage
+/api/storage/*.key
+/api/vendor
+
+/api/.phpunit.result.cache
+/api/Homestead.json
+/api/Homestead.yaml
+/api/npm-debug.log
+/api/yarn-error.log
+
+
+/frontEnd/node_modules
+/frontEnd/.pnp
+frontEnd/.pnp.js
+
+# testing
+/frontEnd/coverage
+
+# production
+/frontEnd/build
+
+# misc
+/frontEnd/.DS_Store
+/frontEnd/.env.local
+/frontEnd/.env.development.local
+/frontEnd/.env.test.local
+/frontEnd/.env.production.local
+
+/frontEnd/npm-debug.log*
+/frontEnd/yarn-debug.log*
+/frontEnd/yarn-error.log*
